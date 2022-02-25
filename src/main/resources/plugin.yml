@@ -1,0 +1,4 @@
+name: ManaApi
+version: 1.0
+main: eu.zzagro.manaapi.ManaApi
+author: zZagro
